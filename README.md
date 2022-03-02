@@ -2,6 +2,10 @@
 
 A repository of fun and exciting ways to use the pandas library to solve Advent of Code problems (adventofcode.com).
 
+## Video Tutorial
+
+[Watch a comprehensive tutorial](https://www.youtube.com/watch?v=6aH4RMrhbVc) of all of these pandas tricks on YouTube.
+
 ## Advent of Code
 
 * 25 fun, interesting, tricky word problems that require programming
@@ -22,3 +26,6 @@ A repository of fun and exciting ways to use the pandas library to solve Advent 
 * Will show interesting and unusual pandas tricks to solve these problems
 * Some are easier with pandas, others without
 
+## Master Data Analysis with Python
+
+If you are interestd in becoming an expert at Pandas so that you can manipulate data in any way imaginable as shown in these tricks, then purchase [Master Data Analysis with Python](https://dunderdata.com/master-data-analysis-with-python). It contains 500+ exercises, projects, and detailed solutions.
