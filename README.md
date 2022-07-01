@@ -19,6 +19,10 @@ A repository of fun and exciting ways to use the pandas library to solve Advent 
 * Your answer will be different than mine
 * Two parts to each problem
 
+## Current year
+
+Add the four digit year to the URL to access a specific year - https://adventofcode.com/2021
+
 ## Using Pandas
 
 * Tutorial is for experienced pandas users
