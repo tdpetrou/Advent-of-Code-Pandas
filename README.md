@@ -8,8 +8,8 @@ Add the four digit year to the URL to access a specific year - https://adventofc
 
 ## Video Tutorials
 
-[Watch a comprehensive tutorial](https://www.youtube.com/watch?v=6aH4RMrhbVc) of all of these pandas tricks on YouTube.
-[2022]
+* [2022 Advent of Code Playlist](https://www.youtube.com/watch?v=U7DSfPFZX0w&list=PLVyhfExBT1XCSIMAKmErW1RqFaD5uzc4-)
+* [2021 Advent fo Code comprehensive tutorial](https://www.youtube.com/watch?v=6aH4RMrhbVc)
 
 ## Advent of Code
 
