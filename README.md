@@ -2,9 +2,14 @@
 
 A repository of fun and exciting ways to use the pandas library to solve Advent of Code problems (adventofcode.com).
 
-## Video Tutorial
+## Current year
+
+Add the four digit year to the URL to access a specific year - https://adventofcode.com/2022
+
+## Video Tutorials
 
 [Watch a comprehensive tutorial](https://www.youtube.com/watch?v=6aH4RMrhbVc) of all of these pandas tricks on YouTube.
+[2022]
 
 ## Advent of Code
 
@@ -18,10 +23,6 @@ A repository of fun and exciting ways to use the pandas library to solve Advent 
 * Every person's data is different
 * Your answer will be different than mine
 * Two parts to each problem
-
-## Current year
-
-Add the four digit year to the URL to access a specific year - https://adventofcode.com/2021
 
 ## Using Pandas
 
